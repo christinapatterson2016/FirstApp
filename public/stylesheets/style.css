@@ -1,0 +1,29 @@
+.jumbotron{
+  padding: 0px, 0px, 20px, 20px;
+  font: 70px "Arial", Helvetica, Arial, sans-serif;
+  color: black;
+  text-align: center;
+
+}
+h1{
+	color: red;
+	font-weight: bold;
+}
+
+.jumbotron:hover{
+	font-weight:bold;
+}
+
+
+p {
+	text-align: left;
+	color: blue;
+}
+a {
+  color: #1AADE7;
+}
+
+ol {
+	text-align: left;
+	color: black;
+}
